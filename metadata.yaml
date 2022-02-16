@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '8532'
     url: http://www.gutenberg.org/2009/agents/8532
     wikipedia: https://en.wikipedia.org/wiki/Laurence_Binyon
+covers:
+- cover_type: archival
+  image_path: 67358-h/images/cover.jpg
 creator:
   author:
     agent_name: Stein, Aurel
     gutenberg_agent_id: '54226'
     url: http://www.gutenberg.org/2009/agents/54226
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67358#The-Thousand-Buddhas-Ancient-Buddhist-Paintings-from-the-Cave-Temples-of-Tun-huang-on-the-Wes_
 gutenberg_issued: '2022-02-08'
 identifiers:
   gutenberg: '67358'
